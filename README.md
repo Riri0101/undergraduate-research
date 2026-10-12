@@ -6,7 +6,7 @@ Two deep learning research papers from my undergraduate practicum in Computer En
 
 ## From Pixels to Pronunciation: A Deep Learning System for Image Description and Speech Generation
 
-📄 [Read the paper](https://github.com/Riri0101/undergraduate-research/blob/main/A%20Deep%20Learning%20Approach%20to%20Fabric%20Defect%20Detection_%20CNN%20and%20ResNet%20for%20Efficient%20Quality%20Assessment.pdf)
+📄 [Read the paper](https://github.com/Riri0101/undergraduate-research/blob/main/From%20Pixels%20to%20Pronunciation.pdf)
 
 **Problem:** Elderly and visually impaired people often can't independently access visual content.
 
@@ -20,7 +20,7 @@ Two deep learning research papers from my undergraduate practicum in Computer En
 
 ## A Deep Learning Approach to Fabric Defect Detection: CNN and ResNet for Efficient Quality Assessment
 
-📄 [Read the paper](undergraduate-research/A Deep Learning Approach to Fabric Defect Detection_ CNN and ResNet for Efficient Quality Assessment.pdf)
+📄 [Read the paper](https://github.com/Riri0101/undergraduate-research/blob/main/A%20Deep%20Learning%20Approach%20to%20Fabric%20Defect%20Detection_%20CNN%20and%20ResNet%20for%20Efficient%20Quality%20Assessment.pdf)
 
 **Problem:** Manual fabric inspection in the textile industry is slow, costly and prone to human error.
 
