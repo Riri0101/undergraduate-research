@@ -6,7 +6,7 @@ Two deep learning research papers from my undergraduate practicum in Computer En
 
 ## From Pixels to Pronunciation: A Deep Learning System for Image Description and Speech Generation
 
-📄 [Read the paper](From Pixels to Pronunciation.pdf)
+📄 [Read the paper](https://github.com/Riri0101/undergraduate-research/blob/main/A%20Deep%20Learning%20Approach%20to%20Fabric%20Defect%20Detection_%20CNN%20and%20ResNet%20for%20Efficient%20Quality%20Assessment.pdf)
 
 **Problem:** Elderly and visually impaired people often can't independently access visual content.
 
