@@ -8,7 +8,7 @@ Deep learning research from my undergraduate studies in Computer Engineering at 
 
 🎤 Presented at the International Conference on AI and ML (ICAML), Aug 2024
 
-📄 [Read the paper](art-fashion-design-integration-paper.pdf)
+📄 [Read the paper](https://github.com/Riri0101/undergraduate-research/blob/main/Style%20generation.pdf)
 
 **Problem:** Applying artwork to clothing is still largely manual, slow and wasteful, and existing style transfer models often ignore the garment's texture and shape.
 
