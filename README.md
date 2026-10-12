@@ -1,0 +1,35 @@
+# Undergraduate Research
+
+Two deep learning research papers from my undergraduate practicum in Computer Engineering at NMIMS University, Mumbai.
+
+---
+
+## From Pixels to Pronunciation: A Deep Learning System for Image Description and Speech Generation
+
+📄 [Read the paper](image-to-speech-paper.pdf)
+
+**Problem:** Elderly and visually impaired people often can't independently access visual content.
+
+**Approach:** Built an image-to-speech system that describes images out loud. InceptionV3 extracts image features, an attention mechanism focuses on the most relevant parts of the image, and a GRU decoder generates a caption that is converted to speech. Trained on the Flickr8k dataset (8,000 images, about 40,000 captions).
+
+**Result:** 91.4% accuracy, with CIDEr and METEOR scores improving steadily across training. Works best on simpler scenes; complex scenes and longer captions remain a challenge.
+
+**Co-authors:** Mehek Wagle, Prof. Avani Bhuva
+
+---
+
+## A Deep Learning Approach to Fabric Defect Detection: CNN and ResNet for Efficient Quality Assessment
+
+📄 [Read the paper](fabric-defect-detection-paper.pdf)
+
+**Problem:** Manual fabric inspection in the textile industry is slow, costly and prone to human error.
+
+**Approach:** Compared a custom CNN and a pretrained ResNet (transfer learning) for classifying fabric images into six classes: good, color, cut, hole, thread and metal contamination. Used 48,000 labeled images with augmentation (rotation, flipping, cropping).
+
+**Result:** The CNN reached 76% accuracy and ResNet reached 72%. The simpler CNN performed better on the small 32x32 images, a useful lesson in matching model complexity to the data.
+
+**Co-authors:** Mehek Wagle, Tarushi Marchino, Sofia Francis, Dr. Soni Sweta
+
+---
+
+*These papers were completed as undergraduate research and have not been published.*
