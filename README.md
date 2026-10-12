@@ -1,6 +1,22 @@
 # Undergraduate Research
 
-Two deep learning research papers from my undergraduate practicum in Computer Engineering at NMIMS University, Mumbai.
+Deep learning research from my undergraduate studies in Computer Engineering at NMIMS University, Mumbai.
+
+---
+
+## Bridging Art and Fashion: AI-Driven Techniques for Seamless Design Integration
+
+🎤 Presented at the International Conference on AI and ML (ICAML), Aug 2024
+
+📄 [Read the paper](art-fashion-design-integration-paper.pdf)
+
+**Problem:** Applying artwork to clothing is still largely manual, slow and wasteful, and existing style transfer models often ignore the garment's texture and shape.
+
+**Approach:** Combined two deep learning models to place artwork onto T-shirts realistically. ResNet18 extracts the T-shirt's structure and fabric texture so the garment keeps its shape, and Pix2Pix (a GAN for image-to-image translation) maps the artwork onto it. Trained on a dataset of 8,683 artwork images.
+
+**Result:** Pix2Pix reached an MSE of 0.0486 with an inference time of about 0.007 seconds per image, while ResNet18 preserved garment structure with an SSIM of 0.9185. Together, they produced realistic designs in seconds, supporting faster digital prototyping with less material waste.
+
+**Co-author:** Prof. Sofia Francis
 
 ---
 
@@ -32,4 +48,4 @@ Two deep learning research papers from my undergraduate practicum in Computer En
 
 ---
 
-*These papers were completed as undergraduate research and have not been published.*
+*The first paper was presented at ICAML 2024. The other two were completed as part of my undergraduate practicum and have not been published.*
